@@ -1,0 +1,2 @@
+# DatabaseSQL
+ SQL exercises
