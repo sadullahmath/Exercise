@@ -1,2 +1,1 @@
-# DatabaseSQL
- SQL exercises
+# Python exercises
